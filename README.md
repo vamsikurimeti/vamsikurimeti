@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on Opensource Web development projects
 - 🤔 I’m looking for help with Learning Cyber Security
 - 💬 Ask me about Web development
-- 📫 How to reach me: [portfolio](https://www.biodrop.io/vamsikurimeti](https://vamsikurimeti-portfolio.vercel.app/)
+- 📫 How to reach me: [portfolio](https://vamsikurimeti-portfolio.vercel.app/)
 - 😄 Pronouns: Vamsi Kurimeti
 -->
